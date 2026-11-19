@@ -44,7 +44,7 @@ Keycloak · OAuth 2.0 · OpenID Connect (OIDC)
     sharing with the developer community
 -   [GitHub](https://github.com/nrimen) --- Projects, experiments, and
     code
--   [LinkeDIn](https://linkedin.com/in/nour-el-imen) --- Projects, experiments, and
+-   [LinkedIn](https://linkedin.com/in/nour-el-imen) --- Projects, experiments, and
     code
 
 ------------------------------------------------------------------------
